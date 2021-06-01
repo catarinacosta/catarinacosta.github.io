@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://catarina.costa@ufac.br
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/catarinascosta
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/catarinacosta
+  icon: fab fa-github

@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+{% include home-header.html %}
+
+<!--
+<div class="posts">
+  {% for post in paginator.posts %}
+  <section class="post-entry">
+    <h2 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    <div class="post-meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      {%- if jekyll.environment == "production" and site.disqus -%}
+        <span> • </span>
+        <a class="comment-count" href="{{ post.url | relative_url }}#disqus_thread">
+          <span class="disqus-comment-count" data-disqus-url="{{ post.url | absolute_url }}"></span>
+        </a>
+      {%- endif -%}
+    </div>
+
+    <p>{{ post.excerpt | strip_html }}</p>
+  </section>
+  {% endfor %}
+  {%- if jekyll.environment == "production" and site.disqus -%}
+    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
+  {%- endif -%}
+</div>
+-->
+
+<h2>Short Bio</h2>
+<p><br></p>
+
+
+<p>Catarina Costa is a Professor at the Exact and Technological Sciences Center at the <a href="http://www.ufac.br" rel="noopener noreferrer" target="_blank">Federal University of Acre (UFAC)</a>. She holds a Ph.D. (2017) degree in Computer Science from <a href="http://www.ic.uff.br/index.php/pt/" rel="noopener noreferrer" target="_blank">Fluminense Federal University (UFF)</a>, under the supervision of <a href="http://www.ic.uff.br/~leomurta/" rel="noopener noreferrer" target="_blank">Professor Leonardo Murta</a>, a M.S. (2010) degree also in Computer Science from <a href="https://portal.cin.ufpe.br/" rel="noopener noreferrer" target="_blank">Federal University of Pernambuco (UFPE)</a>, and a B.S. (2007) degree in Informatics from UFAC. Her research area is Software Engineering, and her current research interests include Configuration Management, Software Evolution and Data Mining.</p>
+<p><br></p>
+
+<p>Welcome to my homepage! For more information, see <a href="http://lattes.cnpq.br/3445843226759945" rel="noopener noreferrer" target="_blank">Lattes</a> and <a href="https://scholar.google.com/citations?user=suAKJo0AAAAJ&hl=pt-BR" rel="noopener noreferrer" target="_blank">Scholar</a>.</p>
+<p><br></p>
+
+<!--
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+-->
