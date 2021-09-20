@@ -23,6 +23,8 @@ title: Publications
 
 <h2>Conference:</h2>
 
+<p>COSTA, CATARINA; MENEZES, J. W.; TRINDADE, B.; PIMENTEL, SANTOS, RODRIGO; . <b>Factors that Affect Merge Conflicts: A Software Developers’ Perspective.</b> In: Simpósio Brasileiro de Engenharia de Software, 2021, Joinville. In the 35th Brazilian Symposium on Software Engineering (SBES 2021), 2021.</p>
+
 <p>MENEZES, J. W.; TRINDADE, B.; PIMENTEL, JOAO FELIPE; MOURA, T.; PLASTINO, A.; MURTA, LEONARDO; COSTA, CATARINA. <b>What causes merge conflicts?.</b> In: Simpósio Brasileiro de Engenharia de Software, 2020, Natal. In the 34th Brazilian Symposium on Software Engineering (SBES 2020), 2020.</p>
 
 <p>COSTA, CATARINA; FIGUEIREDO, JAIR ; MURTA, LEONARDO ; SARMA, ANITA. <b>TIPMerge: recommending experts for integrating changes across branches.</b> In: the 2016 24th ACM SIGSOFT International Symposium, 2016, Seattle. Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering - FSE 2016. New York: ACM Press. p. 523.</p>
