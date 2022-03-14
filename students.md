@@ -30,4 +30,4 @@ title: Students
 
 <p>2021 - Vítor de Souza Sá (A gerência de configuração nas instituições de Rio Branco)</p>
 
-<p>2021 Thalisson Bandeira Araújo (O impacto da pandemia do novo coronavírus no decorrer de um ano)</p>
+<p>2022 Thalisson Bandeira Araújo (O impacto da pandemia do novo coronavírus no decorrer de um ano)</p>
