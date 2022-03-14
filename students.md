@@ -16,7 +16,6 @@ title: Students
 
 <h2>Undergraduate Students:</h2>
 
-<p>Thalisson Bandeira Araújo (O impacto da pandemia do novo coronavírus no decorrer de um ano)</p>
 <p><br></p>
 
 <h1>Alum:</h1>
@@ -30,3 +29,5 @@ title: Students
 <p>2021 - Bruno Ricardo Silva Trindade (Uma investigação sobre autoconflito no desenvolvimento colaborativo de software)</p>
 
 <p>2021 - Vítor de Souza Sá (A gerência de configuração nas instituições de Rio Branco)</p>
+
+<p>2021 Thalisson Bandeira Araújo (O impacto da pandemia do novo coronavírus no decorrer de um ano)</p>
