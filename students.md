@@ -16,6 +16,8 @@ title: Students
 
 <h2>Undergraduate Students:</h2>
 
+<p> Felipe Bezerra Lima (Dívida Técnica em jogos)</p>
+
 <p><br></p>
 
 <h1>Alum:</h1>
