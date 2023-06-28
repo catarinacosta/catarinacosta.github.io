@@ -8,7 +8,7 @@ title: Students
 
 <h2>Graduate Students:</h2>
 
-<p>Rodrigo Silva Souza (UX em projetos de software)</p>
+<p>Rodrigo Silva Souza (Design Sprint no esino de software)</p>
 
 <p>Marcos Henrique Melo de Araújo (Conflitos de merge e seus impactos na dívida técnica de projetos de software)</p>
 
@@ -22,9 +22,10 @@ title: Students
 
 <h2>Graduate Students:</h2>
 
+<p>2022 - Juliana Abreu da Cunha (Análise das caracteristicas de autoconflito)</p>
+
 <p>2021 - José William Menezes Ribeiro (Atributos  que  podem  contribuir  para  a ocorrência de conflitos de merge)</p>
 
-<p>Juliana Abreu da Cunha (Análise das caracteristicas de autoconflito)</p>
 
 <h2>Undergraduate Students:</h2>
 

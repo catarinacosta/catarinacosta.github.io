@@ -9,7 +9,13 @@ title: Publications
 <h2>Journal:</h2>
 
 
-<p>COSTA, CATARINA; FIGUEIREDO, JOSE JAIR; PIMENTEL, JOAO FELIPE; SARMA, ANITA; MURTA, LEONARDO. <b>Recommending Participants for Collaborative Merge Sessions.</b> IEEE TRANSACTIONS ON SOFTWARE ENGINEERING, v. 45, p. 1-1, 2019.</p>
+<p>RIBEIRO, BARBARA BEATO ; COSTA, CATARINA ; PEREIRA DOS SANTOS, RODRIGO . Understanding and Analyzing Factors that Affect Merge Conflicts from the Perspective of Software Developers. JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT, v. 10, p. 12, 2022.</p>
+
+<p>MENEZES, JOSÉ WILLIAM ; TRINDADE, BRUNO ; PIMENTEL, J. F. N. ; PLASTINO, ALEXANDRE ; MURTA, LEONARDO ; COSTA, C. S. . Attributes that may raise the occurrence of merge conflicts. JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT, v. 9, p. 1-14, 2021.</p>
+
+<p>MENEZES, JOSÉ WILLIAM ; TRINDADE, BRUNO ; PIMENTEL, J. F. N. ; PLASTINO, ALEXANDRE ; MURTA, LEONARDO ; COSTA, C. S. . Attributes that may raise the occurrence of merge conflicts. JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT, v. 9, p. 1-14, 2021.</p>
+
+<p>COSTA, C. S.; FIGUEIREDO, JAIR ; PIMENTEL, J. F. N. ; SARMA, ANITA ; MURTA, LEONARDO . Recommending Participants for Collaborative Merge Sessions. IEEE TRANSACTIONS ON SOFTWARE ENGINEERING, v. 47, p. 1198-1210, 2021.</p>
 
 <p>COSTA, CATARINA; FIGUEIREDO, J. J. C.; MENEZES, G. G. L.; MURTA, LEONARDO.  <b>Characterizing the problem of Developers' Assignment for Merging Branches.</b> International Journal of Software Engineering and Knowledge Engineering, v. 24, p. 1489-1508, 2014.</p>
 
@@ -22,6 +28,13 @@ title: Publications
 <p><br></p>
 
 <h2>Conference:</h2>
+
+
+<p>COSTA, Bruno Fernando ; MELO, A. ; NASCIMENTO, T. ; FRANCA, S. ; COSTA, CATARINA . Avaliação de aplicativos de apoio a comunicação das pessoas surdas na perspectiva de um surdo. In: VIII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software, 2023, João Pessoa - PB. VIII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software, 2023.</p>
+
+<p>COSTA, CATARINA; NISHIHIRA, J. ; SOUZA, M. L. H. . Percepções de estudantes de diferentes áreas do conhecimento sobre equipes interdisciplinares no ensino de tecnologias. In: WEI - Workshop sobre Educação em Computação, 2023, João Pessoa - PB. WEI - Workshop sobre Educação em Computação, 2023.</p>
+
+<p>OLIVEIRA, A. ; SOARES, A. ; ARAUJO, D. ; SILVA, E. ; SOARES, K. ; SANTOS, M. ; COSTA, CATARINA . Analise do perfil dos estudantes dos cursos Técnicos Integrados ao Ensino Médio do IFAC. In: WEI - Workshop sobre Educação em Computação, 2023, João Pessoa - PB. WEI - Workshop sobre Educação em Computação, 2023.</p>
 
 <p>COSTA, CATARINA; MENEZES, J. W.; TRINDADE, B.; PIMENTEL, SANTOS, RODRIGO; . <b>Factors that Affect Merge Conflicts: A Software Developers’ Perspective.</b> In: Simpósio Brasileiro de Engenharia de Software, 2021, Joinville. In the 35th Brazilian Symposium on Software Engineering (SBES 2021), 2021.</p>
 

@@ -5,6 +5,10 @@ title: Service
 
 <h2>Event Organization:</h2>
 
+<p>III Workshop do Programa de Pós Graduação em Ciência da Computação - UFAC (WPPGCC 2022)</p>
+
+<p>II Workshop do Programa de Pós Graduação em Ciência da Computação - UFAC (WPPGCC 2021)</p>
+
 <p>Simpósio Acreano de Sistemas de Informação (SASI 2019)</p>
 
 <p>Simpósio Acreano de Sistemas de Informação (SASI 2011)</p>
@@ -12,13 +16,25 @@ title: Service
 
 <h2>Program Committee Member:</h2>
 
+<p> Brazilian Symposium on Software Engineering (SBES 2023)</p>
+
+<p> Insightful Ideas and Emerging Results (SBES - IIER 2023)</p>
+
+<p> XV Women in Information Technology (CSBC 2023 - WIT)</p>
+
+<p> Brazilian Symposium on Software Engineering (SBES 2022)</p>
+
+<p> Insightful Ideas and Emerging Results (SBES - IIER 2022)</p>
+
+<p> XV Women in Information Technology (CSBC 2022 - WIT)</p>
+
 <p> Brazilian Symposium on Software Engineering (SBES 2021)</p>
 
 <p> Workshop on Software Visualization, Evolution and Maintenance (VEM 2021)</p>
 
 <p> Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2021)</p>
 
-<p> Insightful Ideas and Emerging Results (IIER 2021)</p>
+<p> Insightful Ideas and Emerging Results (SBES - IIER 2021)</p>
 
 <p> XV Women in Information Technology (CSBC 2021 - WIT)</p>
 

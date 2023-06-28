@@ -9,4 +9,5 @@ title: Research
     <li>Configuration Management</li>
     <li>Mining Software Repositories</li>
     <li>Supporting Collaboration in Distributed Teams</li>
+    <li>Computer Education</li>
 </ul>
