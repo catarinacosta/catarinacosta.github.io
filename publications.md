@@ -9,7 +9,7 @@ title: Publications
 <h2>Journal:</h2>
 
 
-<p>RIBEIRO, BARBARA BEATO ; COSTA, CATARINA ; PEREIRA DOS SANTOS, RODRIGO. <b>Understanding and Analyzing Factors that Affect Merge Conflicts from the Perspective of Software Developers.</b> JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT, v. 10, p. 12, 2022.</p>
+<p>RIBEIRO, BARBARA BEATO; COSTA, CATARINA ; PEREIRA DOS SANTOS, RODRIGO. <b>Understanding and Analyzing Factors that Affect Merge Conflicts from the Perspective of Software Developers.</b> JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT, v. 10, p. 12, 2022.</p>
 
 <p>MENEZES, JOSÉ WILLIAM ; TRINDADE, BRUNO ; PIMENTEL, J. F. N. ; PLASTINO, ALEXANDRE ; MURTA, LEONARDO ; COSTA, C. S. <b>Attributes that may raise the occurrence of merge conflicts.</b> JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT, v. 9, p. 1-14, 2021.</p>
 
