@@ -8,19 +8,21 @@ title: Students
 
 <h2>Graduate Students:</h2>
 
-<p>Rodrigo Silva Souza (Design Sprint no esino de software)</p>
 
-<p>Marcos Henrique Melo de Araújo (Conflitos de merge e seus impactos na dívida técnica de projetos de software)</p>
 
 <h2>Undergraduate Students:</h2>
 
-<p> André Gomes Nogueira de Oliveira (Ensino de Programação) </p>
+
 
 <p><br></p>
 
 <h1>Alum:</h1>
 
 <h2>Graduate Students:</h2>
+
+<p>2023 - Rodrigo Silva Souza (A utilização da Sala de Aula Invertida no ensino do Design Sprint)</p>
+
+<p>2023 - Marcos Henrique Melo de Araújo (Análise da Dívida Técnica de Projetos de Software com Base em Comentários de Código de Conflitos de Merge​)</p>
 
 <p>2022 - Juliana Abreu da Cunha (Análise das caracteristicas de autoconflito)</p>
 
@@ -29,7 +31,9 @@ title: Students
 
 <h2>Undergraduate Students:</h2>
 
-<p> 2022 - Felipe Bezerra Lima (Gerenciamento de Dívida Técnica em Desenvolvimento de Jogos: Um Estudo Exploratório)</p>
+<p>2023 - Bruno Fernando da Costa (Avaliação de aplicativos de apoio a comunicação das pessoas surdas na perspectiva de um surdo)</p>
+
+<p>2022 - Felipe Bezerra Lima (Gerenciamento de Dívida Técnica em Desenvolvimento de Jogos: Um Estudo Exploratório)</p>
 
 <p>2021 - Bruno Ricardo Silva Trindade (Uma investigação sobre autoconflito no desenvolvimento colaborativo de software)</p>
 
