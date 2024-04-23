@@ -16,27 +16,36 @@ title: Service
 
 <h2>Program Committee Member:</h2>
 
-<p> Brazilian Symposium on Software Engineering (SBES 2023)</p>
 
-<p> Insightful Ideas and Emerging Results (SBES - IIER 2023)</p>
+<p> Workshop sobre Educação em Computação (WEI CSBC 2024) </p>
 
-<p> XV Women in Information Technology (CSBC 2023 - WIT)</p>
+<p> Brazilian Symposium on Software Engineering (SBES 2024) </p>
 
-<p> Brazilian Symposium on Software Engineering (SBES 2022)</p>
+<p> Insightful Ideas and Emerging Results (SBES - IIER 2024) </p>
 
-<p> Insightful Ideas and Emerging Results (SBES - IIER 2022)</p>
+<p> Women in Information Technology (WIT CSBC 2024) </p>
 
-<p> XV Women in Information Technology (CSBC 2022 - WIT)</p>
+<p> Brazilian Symposium on Software Engineering (SBES 2023) </p>
 
-<p> Brazilian Symposium on Software Engineering (SBES 2021)</p>
+<p> Insightful Ideas and Emerging Results (SBES - IIER 2023) </p>
 
-<p> Workshop on Software Visualization, Evolution and Maintenance (VEM 2021)</p>
+<p> Women in Information Technology (WIT CSBC 2023) </p>
+
+<p> Brazilian Symposium on Software Engineering (SBES 2022) </p>
+
+<p> Insightful Ideas and Emerging Results (SBES - IIER 2022) </p>
+
+<p> Women in Information Technology (WIT CSBC 2022) </p>
+
+<p> Brazilian Symposium on Software Engineering (SBES 2021) </p>
+
+<p> Workshop on Software Visualization, Evolution and Maintenance (VEM 2021) </p>
 
 <p> Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2021)</p>
 
 <p> Insightful Ideas and Emerging Results (SBES - IIER 2021)</p>
 
-<p> XV Women in Information Technology (CSBC 2021 - WIT)</p>
+<p> Women in Information Technology (WIT CSBC 2021 )</p>
 
 <p> Workshop de Informática na Escola (CBIE 2020 - WIE)</p>
 
