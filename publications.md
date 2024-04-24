@@ -28,11 +28,17 @@ title: Publications
 <h2>Conference:</h2>
 
 
-<p>COSTA, Bruno Fernando ; MELO, A. ; NASCIMENTO, T. ; FRANCA, S. ; COSTA, CATARINA. <b>Avaliação de aplicativos de apoio a comunicação das pessoas surdas na perspectiva de um surdo.</b> In: VIII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software, 2023, João Pessoa - PB. VIII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software, 2023.</p>
+<p>COSTA, Bruno Fernando; MELO, A.; NASCIMENTO, T. ; FRANCA, S.; COSTA, CATARINA. <b>Avaliação de aplicativos de apoio a comunicação das pessoas surdas na perspectiva de um surdo.</b> In: VIII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software, 2023, João Pessoa - PB. VIII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software, 2023.</p>
 
-<p>COSTA, CATARINA; NISHIHIRA, J. ; SOUZA, M. L. H. <b>Percepções de estudantes de diferentes áreas do conhecimento sobre equipes interdisciplinares no ensino de tecnologias.</b> In: WEI - Workshop sobre Educação em Computação, 2023, João Pessoa - PB. WEI - Workshop sobre Educação em Computação, 2023.</p>
+<p>COSTA, CATARINA; NISHIHIRA, J.; SOUZA, M. L. H. <b>Percepções de estudantes de diferentes áreas do conhecimento sobre equipes interdisciplinares no ensino de tecnologias.</b> In: WEI - Workshop sobre Educação em Computação, 2023, João Pessoa - PB. WEI - Workshop sobre Educação em Computação, 2023.</p>
 
-<p>OLIVEIRA, A. ; SOARES, A. ; ARAUJO, D. ; SILVA, E. ; SOARES, K. ; SANTOS, M. ; COSTA, CATARINA. <b>Analise do perfil dos estudantes dos cursos Técnicos Integrados ao Ensino Médio do IFAC.</b> In: WEI - Workshop sobre Educação em Computação, 2023, João Pessoa - PB. WEI - Workshop sobre Educação em Computação, 2023.</p>
+<p>OLIVEIRA, A.; SOARES, A.; ARAUJO, D.; SILVA, E.; SOARES, K.; SANTOS, M. ; COSTA, CATARINA. <b>Analise do perfil dos estudantes dos cursos Técnicos Integrados ao Ensino Médio do IFAC.</b> In: WEI - Workshop sobre Educação em Computação, 2023, João Pessoa - PB. WEI - Workshop sobre Educação em Computação, 2023.</p>
+
+<p>SOUZA, RODRIGO S.; VALENTIM, NATASHA M. C.; COSTA, CATARINA. <b>Aplicando Design Sprint em Sala de Aula Invertida: Um Estudo de Caso.</b> In: Simpósio Brasileiro de Informática na Educação, 2023, Brasil. Anais do XXXIV Simpósio Brasileiro de Informática na Educação (SBIE 2023). p. 402.</p>
+
+<p>CAVALCANTE, VICTÓRIA KAROLINA DE LIMA; COSTA, CATARINA; SARKIS, Laura Costa; SOARES, DARICÉLIO MOREIRA; FREITAS, SAULO MAIA DE. <b>Contributions of an Extension Course focused on Good Software Engineering Practices for Students and IT Professionals.</b> In: SBQS '23: XXII Brazilian Symposium on Software Quality, 2023, Bras'{i}lia Brazil. Proceedings of the XXII Brazilian Symposium on Software Quality. p. 301.</p>
+
+<p>MELO DE ARAÚJO, MARCOS HENRIQUE; COSTA, CATARINA; FONTÃO, AWDREN. <b>Analysis of the Technical Debt of Software Projects Based on Merge Code Comments.</b> In: SBCARS 2023: 17th Brazilian Symposium on Software Components, Architectures, and Reuse, 2023, Campo Grande Brazil. Proceedings of the 17th Brazilian Symposium on Software Components, Architectures, and Reuse. New York: ACM, 2023. p. 21.</p>
 
 <p>COSTA, CATARINA; MENEZES, J. W.; TRINDADE, B.; PIMENTEL, SANTOS, RODRIGO; <b>Factors that Affect Merge Conflicts: A Software Developers’ Perspective.</b> In: Simpósio Brasileiro de Engenharia de Software, 2021, Joinville. In the 35th Brazilian Symposium on Software Engineering (SBES 2021), 2021.</p>
 
