@@ -36,7 +36,7 @@ title: Publications
 
 <p>SOUZA, RODRIGO S.; VALENTIM, NATASHA M. C.; COSTA, CATARINA. <b>Aplicando Design Sprint em Sala de Aula Invertida: Um Estudo de Caso.</b> In: Simpósio Brasileiro de Informática na Educação, 2023, Brasil. Anais do XXXIV Simpósio Brasileiro de Informática na Educação (SBIE 2023). p. 402.</p>
 
-<p>CAVALCANTE, VICTÓRIA KAROLINA DE LIMA; COSTA, CATARINA; SARKIS, Laura Costa; SOARES, DARICÉLIO MOREIRA; FREITAS, SAULO MAIA DE. <b>Contributions of an Extension Course focused on Good Software Engineering Practices for Students and IT Professionals.</b> In: SBQS '23: XXII Brazilian Symposium on Software Quality, 2023, Bras'{i}lia Brazil. Proceedings of the XXII Brazilian Symposium on Software Quality. p. 301.</p>
+<p>CAVALCANTE, VICTÓRIA KAROLINA DE LIMA; COSTA, CATARINA; SARKIS, Laura Costa; SOARES, DARICÉLIO MOREIRA; FREITAS, SAULO MAIA DE. <b>Contributions of an Extension Course focused on Good Software Engineering Practices for Students and IT Professionals.</b> In: SBQS '23: XXII Brazilian Symposium on Software Quality, 2023, Brasília Brazil. Proceedings of the XXII Brazilian Symposium on Software Quality. p. 301.</p>
 
 <p>MELO DE ARAÚJO, MARCOS HENRIQUE; COSTA, CATARINA; FONTÃO, AWDREN. <b>Analysis of the Technical Debt of Software Projects Based on Merge Code Comments.</b> In: SBCARS 2023: 17th Brazilian Symposium on Software Components, Architectures, and Reuse, 2023, Campo Grande Brazil. Proceedings of the 17th Brazilian Symposium on Software Components, Architectures, and Reuse. New York: ACM, 2023. p. 21.</p>
 
@@ -46,7 +46,7 @@ title: Publications
 
 <p>COSTA, CATARINA; FIGUEIREDO, JAIR ; MURTA, LEONARDO ; SARMA, ANITA. <b>TIPMerge: recommending experts for integrating changes across branches.</b> In: the 2016 24th ACM SIGSOFT International Symposium, 2016, Seattle. Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering - FSE 2016. New York: ACM Press. p. 523.</p>
 
-<p>COSTA, CATARINA; FIGUEIREDO, JAIR ; SARMA, ANITA ; MURTA, LEONARDO. <b>TIPMerge: recommending developers for merging branches.</b> In: the 2016 24th ACM SIGSOFT International Symposium, 2016, Seattle. Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering - FSE 2016. New York: ACM Press, 2016. p. 998</p>
+<p>COSTA, CATARINA; FIGUEIREDO, JAIR; SARMA, ANITA ; MURTA, LEONARDO. <b>TIPMerge: recommending developers for merging branches.</b> In: the 2016 24th ACM SIGSOFT International Symposium, 2016, Seattle. Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering - FSE 2016. New York: ACM Press, 2016. p. 998</p>
 
 <p>COSTA, CATARINA; FIGUEIREDO, J. J. C.; MURTA, LEONARDO. <b>Collaborative Merge in Distributed Software Development: Who Should Participate?.</b> In: The Twenty-Sixth International Conference on Software Engineering and Knowledge Engineering (SEKE), 2014, Vancouver. International Conference on Software Engineering and Knowledge Engineering, 2014.</p>
 
