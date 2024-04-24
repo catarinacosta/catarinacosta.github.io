@@ -33,7 +33,7 @@ title: Service
 
 <p> Brazilian Symposium on Software Engineering (SBES 2022) </p>
 
-<p> Insightful Ideas and Emerging Results (SBES - IIER 2022) </p>
+<p> Insightful Ideas and Emerging Results (IIER 2022 - SBES) </p>
 
 <p> Women in Information Technology (WIT CSBC 2022) </p>
 
@@ -43,7 +43,7 @@ title: Service
 
 <p> Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2021)</p>
 
-<p> Insightful Ideas and Emerging Results (SBES - IIER 2021)</p>
+<p> Insightful Ideas and Emerging Results (IIER 2021 - SBES)</p>
 
 <p> Women in Information Technology (WIT CSBC 2021 )</p>
 
