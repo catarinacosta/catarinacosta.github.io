@@ -13,7 +13,7 @@ title: Publications
 
 <p>MENEZES, JOSÉ WILLIAM; TRINDADE, BRUNO ; PIMENTEL, J. F. N.; PLASTINO, ALEXANDRE; MURTA, LEONARDO; COSTA, C. S. <b>Attributes that may raise the occurrence of merge conflicts.</b> JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT, v. 9, p. 1-14, 2021.</p>
 
-<p>COSTA, CATARINA; FIGUEIREDO, JAIR; PIMENTEL, J. F. N. ; SARMA, ANITA; MURTA, LEONARDO. <b>Recommending Participants for Collaborative Merge Sessions.</b> IEEE TRANSACTIONS ON SOFTWARE ENGINEERING, v. 47, p. 1198-1210, 2021.</p>
+<p>COSTA, CATARINA; FIGUEIRÊDO, JAIR; PIMENTEL, J. F. N. ; SARMA, ANITA; MURTA, LEONARDO. <b>Recommending Participants for Collaborative Merge Sessions.</b> IEEE TRANSACTIONS ON SOFTWARE ENGINEERING, v. 47, p. 1198-1210, 2021.</p>
 
 <p>COSTA, CATARINA; FIGUEIREDO, J. J. C.; MENEZES, G. G. L.; MURTA, LEONARDO.  <b>Characterizing the problem of Developers' Assignment for Merging Branches.</b> International Journal of Software Engineering and Knowledge Engineering, v. 24, p. 1489-1508, 2014.</p>
 
