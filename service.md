@@ -21,13 +21,13 @@ title: Service
 
 <p> Brazilian Symposium on Software Engineering (SBES 2024) </p>
 
-<p> Insightful Ideas and Emerging Results (SBES - IIER 2024) </p>
+<p> Insightful Ideas and Emerging Results (IIER 2024 - SBES) </p>
 
 <p> Women in Information Technology (WIT CSBC 2024) </p>
 
 <p> Brazilian Symposium on Software Engineering (SBES 2023) </p>
 
-<p> Insightful Ideas and Emerging Results (SBES - IIER 2023) </p>
+<p> Insightful Ideas and Emerging Results (IIER 2023 -SBES) </p>
 
 <p> Women in Information Technology (WIT CSBC 2023) </p>
 
